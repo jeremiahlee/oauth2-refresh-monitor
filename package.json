@@ -1,0 +1,14 @@
+{
+  "name": "oauth2-refresh-monitor",
+  "version": "1.0.0",
+  "description": "Quick test for monitoring OAuth 2.0 refresh token success",
+  "main": "index.js",
+  "author": "Jeremiah Lee",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "envbang-node": "0.0.1",
+    "hapi": "^13.3.0",
+    "request": "^2.71.0"
+  }
+}
